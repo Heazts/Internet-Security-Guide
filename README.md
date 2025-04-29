@@ -12,9 +12,9 @@ Clique no idioma de sua preferência:
 
 *(Mais idiomas serão adicionados com contribuições da comunidade!)*
 
-[![Contribuições](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](contributing/GUIDELINES.md)
-[![Traduções](https://img.shields.io/badge/translations-3-blue)](contributing/TRANSLATIONS.md)
-[![License](https://img.shields.io/badge/license-CC_BY--SA_4.0-lightgrey)](LICENSE)
+[![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindos-24292e?style=flat-square&logo=github)](contributing/GUIDELINES.md)
+[![Traduções](https://img.shields.io/badge/Traduções-3-f05133?style=flat-square&logo=git)](contributing/TRANSLATIONS.md)
+[![Licença](https://img.shields.io/badge/Licença-CC%20BY--SA%204.0-3b4a5a?style=flat-square&logo=creative-commons)](LICENSE)
 
 ## Sobre
 
