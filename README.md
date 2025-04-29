@@ -8,9 +8,7 @@ Clique no idioma de sua preferência:
 
 - 🇧🇷 [Português](pt/README.md)
 - 🇺🇸 [English](en/README.md)
-- 🇪🇸 [Español](es/README.md)
-
-*(Mais idiomas serão adicionados com contribuições da comunidade!)*
+- 🇪🇸 [Español](es/README.md) *(Mais idiomas serão adicionados com contribuições da comunidade!)*
 
 [![Contribuições](https://img.shields.io/badge/Contribuições-Bem--vindos-0d0d0d?style=flat-square&logo=github)](contributing/GUIDELINES.md)
 [![Traduções](https://img.shields.io/badge/Traduções-3-f05133?style=flat-square&logo=git)](contributing/TRANSLATIONS.md)
