@@ -6,8 +6,8 @@ Bem-vindo ao **Guia Completo de Segurança na Internet**, um repositório abrang
 
 Clique no idioma de sua preferência:
 
-- 🇵🇹 [Português](pt/README.md)
-- 🇬🇧 [English](en/README.md)
+- 🇧🇷 [Português](pt/README.md)
+- 🇺🇸 [English](en/README.md)
 - 🇪🇸 [Español](es/README.md)
 
 *(Mais idiomas serão adicionados com contribuições da comunidade!)*
@@ -34,7 +34,7 @@ Este repositório é seu manual vivo de autodefesa digital, cobrindo:
 1. Escolha seu idioma nos links acima.
 2. Explore as seções dentro da pasta do idioma selecionado, começando pela `introduction.md`.
 3. Teste as ferramentas recomendadas e aplique as dicas no seu dia a dia.
-4. Contribua com ideias, sugestões de ferramentas ou traduções para melhorar o guia. Abra uma [Issue](https://github.com/SEU_USUARIO/Internet-Security-Guide/issues) ou faça um [Pull Request](https://github.com/SEU_USUARIO/Internet-Security-Guide/pulls)!
+4. Contribua com ideias, sugestões de ferramentas ou traduções para melhorar o guia. Abra uma [Issue](https://github.com/Heazts/Internet-Security-Guide/issues) ou faça um [Pull Request](https://github.com/Heazts/Internet-Security-Guide/pulls)!
 
 ## Roadmap
 
